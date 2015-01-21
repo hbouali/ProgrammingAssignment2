@@ -1,6 +1,6 @@
-#The makeVector creates a special "vector", which is really a list containing a function to
-#set the value of the vector
-#get the value of the vector
+#The makeCacheMatrix creates a special "matrix", which is really a matrix containing a function to
+#set the value of the matrix
+#get the value of the matrix
 #set the value of the mean
 #get the value of the mean
 
